@@ -5,7 +5,7 @@
   font-family: Arial;
 }
 body{
-  background: url(bg.jpg);
+  background: url('/Oystra-entertenment/hero.webp');
   background-size: cover;
   height: 100vh;
   background-position: center;
@@ -93,7 +93,7 @@ header .menu{
 /* Hero Section Styling */
 .hero {
   position: relative;
-  background-image: url('/hero.webp');
+  background-image: url('/Oystra-entertenment/hero.webp');
   background-size: cover;
   background-position: center;
   height: 100vh; /* Full viewport height */
